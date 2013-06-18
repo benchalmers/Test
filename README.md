@@ -8,3 +8,8 @@ Before I cause too many
 *    Problems
 *    Errors
 *    Potential tragedies for humanity
+
+And this is a second heading
+----------------------------
+
+For what reason?  I don't know.
